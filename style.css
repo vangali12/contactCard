@@ -1,0 +1,45 @@
+* {
+	box-sizing: border-box;
+	border: 1px dotted red;
+	margin: 0px auto;
+}
+
+.wrapper {
+	width: 1000px;
+	margin: 0px auto;
+}
+
+.inputSide {
+	display: inline-block;
+	vertical-align: top;
+	width: 45%;
+	margin: 20px;
+}
+
+.cardSide {
+	display: inline-block;
+	vertical-align: top;
+	width: 45%;
+	margin: 20px;
+}
+
+.card {
+	text-align: center;
+	border: 2px solid dimgrey;
+	height: 250px;
+	margin: 10px 0px 10px 0px;
+}
+
+.des {
+	display: none;
+}
+
+h1 {
+	margin: 15px 0px 15px 0px;
+	font-size: 40pt;
+}
+
+h2 {
+	margin: 30px 0px 15px 0px;
+	font-size: 18pt;
+}
